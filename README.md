@@ -1,5 +1,3 @@
-Below are English versions of the three files you provided.
-
 # LAOS: Structured Documentation for Ophthalmology Day Surgery (Config-Driven)
 
 This repository provides a configurable end-to-end pipeline that converts clinical speech/text notes into structured JSON documents for:
