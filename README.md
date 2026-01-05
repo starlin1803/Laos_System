@@ -1,9 +1,9 @@
-# LAOS: Structured Documentation for Ophthalmology Day Surgery
+# LAOS: LLM-based Auxiliary Ophthalmic System
 
 This repository provides a configurable end-to-end pipeline that converts clinical speech/text notes into structured JSON documents for:
-- Admission (admission)
-- Surgery (surgery)
-- Discharge summary (discharge)
+- Admission
+- Surgery
+- Discharge summary
 
 Key features
 - Config-driven: only keep the `--config` CLI flag; all details are specified in `configs/*.yaml`.
